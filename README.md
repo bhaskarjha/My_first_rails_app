@@ -8,5 +8,5 @@ I am learning from:
 [*Ruby on Rails Tutorial: Learn Rails by Example*] (http://railstutorial.org/)
 by [Michael Hartl]
 
-[*Software Engineering for SaaS at coursera.org] (http://saas-class.org/)
+[*Software Engineering for SaaS at coursera.org*] (http://saas-class.org/)
 by [Armando Fox and David Patterson]
